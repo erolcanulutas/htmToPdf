@@ -34,7 +34,7 @@ Installation
 
     bash
 
-    -   `cd HTML-to-PDF-Converter`
+    -   `cd htmToPdf`
 
     -   Install the requirements:
 
